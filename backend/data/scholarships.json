@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sch001",
+    "name": "Merit Excellence Scholarship",
+    "type": "Merit-based",
+    "coverage": "Up to 100% tuition fee waiver",
+    "eligibility": "Score above 95% in qualifying exam",
+    "deadline": "2026-08-15",
+    "renewable": true
+  },
+  {
+    "id": "sch002",
+    "name": "Need-Based Financial Aid",
+    "type": "Need-based",
+    "coverage": "Up to 75% tuition fee waiver",
+    "eligibility": "Family income below ₹3,00,000 per annum",
+    "deadline": "2026-08-30",
+    "renewable": true
+  },
+  {
+    "id": "sch003",
+    "name": "Sports Excellence Scholarship",
+    "type": "Sports quota",
+    "coverage": "Up to 50% tuition fee waiver",
+    "eligibility": "State/National level sports certificate",
+    "deadline": "2026-09-01",
+    "renewable": false
+  },
+  {
+    "id": "sch004",
+    "name": "Girl Child Empowerment Scholarship",
+    "type": "Special category",
+    "coverage": "25% tuition fee waiver",
+    "eligibility": "Female applicants with min. 70% in qualifying exam",
+    "deadline": "2026-08-20",
+    "renewable": true
+  },
+  {
+    "id": "sch005",
+    "name": "First Generation Learner Scholarship",
+    "type": "Special category",
+    "coverage": "30% tuition fee waiver",
+    "eligibility": "First member of the family to pursue higher education",
+    "deadline": "2026-09-10",
+    "renewable": true
+  }
+]

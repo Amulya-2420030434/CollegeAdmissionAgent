@@ -1,0 +1,50 @@
+[
+  {
+    "id": "APP-10C30EA6",
+    "applicant_name": "TAMMANA KAMESWARI AMULYA",
+    "email": "2420030434@klh.edu.in",
+    "phone": "9581581981",
+    "application_type": "course",
+    "reference_id": "cse101",
+    "reference_name": "B.Tech Computer Science & Engineering",
+    "message": "",
+    "status": "submitted",
+    "submitted_at": "2026-07-09T10:01:17.961243"
+  },
+  {
+    "id": "APP-B0DA6257",
+    "applicant_name": "TAMMANA KAMESWARI AMULYA",
+    "email": "2420030434@klh.edu.in",
+    "phone": "9581581989",
+    "application_type": "course",
+    "reference_id": "cse101",
+    "reference_name": "B.Tech Computer Science & Engineering",
+    "message": "",
+    "status": "submitted",
+    "submitted_at": "2026-07-11T11:05:29.943084"
+  },
+  {
+    "id": "APP-CEE851D5",
+    "applicant_name": "TAMMANA KAMESWARI AMULYA",
+    "email": "2420030434@klh.edu.in",
+    "phone": "89581581982",
+    "application_type": "course",
+    "reference_id": "cse101",
+    "reference_name": "B.Tech Computer Science & Engineering",
+    "message": "",
+    "status": "submitted",
+    "submitted_at": "2026-07-11T11:07:49.739028"
+  },
+  {
+    "id": "APP-A48A94E2",
+    "applicant_name": "TAMMANA KAMESWARI AMULYA",
+    "email": "2420030434@klh.edu.in",
+    "phone": "8581581982",
+    "application_type": "scholarship",
+    "reference_id": "sch001",
+    "reference_name": "Merit Excellence Scholarship",
+    "message": "",
+    "status": "submitted",
+    "submitted_at": "2026-07-11T11:08:08.953143"
+  }
+]

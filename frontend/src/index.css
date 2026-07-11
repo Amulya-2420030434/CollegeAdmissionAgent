@@ -1,0 +1,47 @@
+/* index.css
+   Global styles: Tailwind layer imports + a few base tweaks that apply
+   across the whole app (scrollbars, font smoothing, selection color). */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-body text-slate-800 dark:text-slate-100 antialiased transition-colors duration-300;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+
+  ::selection {
+    @apply bg-brand-500/30;
+  }
+}
+
+@layer utilities {
+  /* Thin, unobtrusive scrollbar used inside the chat window */
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    @apply bg-slate-300 dark:bg-slate-700 rounded-full;
+  }
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+/* Markdown content rendered inside chat bubbles (react-markdown output) */
+.markdown-body p { margin-bottom: 0.5rem; }
+.markdown-body ul, .markdown-body ol { margin: 0.25rem 0 0.5rem 1.25rem; }
+.markdown-body li { margin-bottom: 0.25rem; }
+.markdown-body strong { font-weight: 600; }
+.markdown-body code {
+  @apply bg-slate-200 dark:bg-slate-700 px-1 py-0.5 rounded text-sm;
+}

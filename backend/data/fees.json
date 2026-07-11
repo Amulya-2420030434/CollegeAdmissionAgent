@@ -1,0 +1,65 @@
+[
+  {
+    "id": "fee_cse",
+    "course": "B.Tech Computer Science & Engineering",
+    "tuitionPerYear": 185000,
+    "hostelPerYear": 95000,
+    "examFee": 6000,
+    "otherCharges": 12000,
+    "totalPerYear": 298000
+  },
+  {
+    "id": "fee_ece",
+    "course": "B.Tech Electronics & Communication Engineering",
+    "tuitionPerYear": 170000,
+    "hostelPerYear": 95000,
+    "examFee": 6000,
+    "otherCharges": 12000,
+    "totalPerYear": 283000
+  },
+  {
+    "id": "fee_mba",
+    "course": "MBA - Master of Business Administration",
+    "tuitionPerYear": 250000,
+    "hostelPerYear": 100000,
+    "examFee": 7000,
+    "otherCharges": 15000,
+    "totalPerYear": 372000
+  },
+  {
+    "id": "fee_bba",
+    "course": "BBA - Bachelor of Business Administration",
+    "tuitionPerYear": 120000,
+    "hostelPerYear": 85000,
+    "examFee": 5000,
+    "otherCharges": 10000,
+    "totalPerYear": 220000
+  },
+  {
+    "id": "fee_bsc",
+    "course": "B.Sc. Computer Science",
+    "tuitionPerYear": 95000,
+    "hostelPerYear": 85000,
+    "examFee": 4500,
+    "otherCharges": 9000,
+    "totalPerYear": 193500
+  },
+  {
+    "id": "fee_med",
+    "course": "MBBS - Bachelor of Medicine & Surgery",
+    "tuitionPerYear": 950000,
+    "hostelPerYear": 110000,
+    "examFee": 10000,
+    "otherCharges": 25000,
+    "totalPerYear": 1095000
+  },
+  {
+    "id": "fee_law",
+    "course": "BA LLB (Hons.)",
+    "tuitionPerYear": 165000,
+    "hostelPerYear": 90000,
+    "examFee": 6000,
+    "otherCharges": 11000,
+    "totalPerYear": 272000
+  }
+]

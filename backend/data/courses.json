@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cse101",
+    "name": "B.Tech Computer Science & Engineering",
+    "department": "Engineering",
+    "duration": "4 Years",
+    "eligibility": "10+2 with Physics, Chemistry, Mathematics (min. 60%)",
+    "seats": 180,
+    "avgPackage": "₹8.5 LPA",
+    "description": "Covers programming, data structures, AI/ML, cloud computing and software engineering practices."
+  },
+  {
+    "id": "ece101",
+    "name": "B.Tech Electronics & Communication Engineering",
+    "department": "Engineering",
+    "duration": "4 Years",
+    "eligibility": "10+2 with Physics, Chemistry, Mathematics (min. 60%)",
+    "seats": 120,
+    "avgPackage": "₹6.8 LPA",
+    "description": "Focuses on VLSI, embedded systems, signal processing and communication networks."
+  },
+  {
+    "id": "mba101",
+    "name": "MBA - Master of Business Administration",
+    "department": "Management",
+    "duration": "2 Years",
+    "eligibility": "Bachelor's degree with min. 50% + valid CAT/MAT/CMAT score",
+    "seats": 90,
+    "avgPackage": "₹9.2 LPA",
+    "description": "Specializations in Finance, Marketing, HR and Business Analytics."
+  },
+  {
+    "id": "bba101",
+    "name": "BBA - Bachelor of Business Administration",
+    "department": "Management",
+    "duration": "3 Years",
+    "eligibility": "10+2 in any stream (min. 50%)",
+    "seats": 100,
+    "avgPackage": "₹4.5 LPA",
+    "description": "Foundational business program covering management, economics and entrepreneurship."
+  },
+  {
+    "id": "bsc101",
+    "name": "B.Sc. Computer Science",
+    "department": "Science",
+    "duration": "3 Years",
+    "eligibility": "10+2 with Mathematics/Computer Science (min. 55%)",
+    "seats": 60,
+    "avgPackage": "₹5.0 LPA",
+    "description": "Strong fundamentals in computer science, mathematics and applied statistics."
+  },
+  {
+    "id": "med101",
+    "name": "MBBS - Bachelor of Medicine & Surgery",
+    "department": "Medical",
+    "duration": "5.5 Years",
+    "eligibility": "10+2 with PCB (min. 60%) + NEET qualifying score",
+    "seats": 150,
+    "avgPackage": "N/A",
+    "description": "Comprehensive medical program with clinical rotations and residency pathway."
+  },
+  {
+    "id": "law101",
+    "name": "BA LLB (Hons.)",
+    "department": "Law",
+    "duration": "5 Years",
+    "eligibility": "10+2 in any stream (min. 50%) + CLAT score",
+    "seats": 80,
+    "avgPackage": "₹6.0 LPA",
+    "description": "Integrated law degree covering constitutional, corporate and criminal law."
+  }
+]
