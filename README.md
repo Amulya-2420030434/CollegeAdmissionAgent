@@ -146,14 +146,4 @@ function that is the **single integration point** for IBM watsonx.ai's
 Granite model. See [`docs/IBM_WATSONX_INTEGRATION.md`](docs/IBM_WATSONX_INTEGRATION.md)
 for exact step-by-step instructions.
 
----
 
-## 🖼️ Screenshots
-
-Add your own screenshots to the `screenshots/` folder once the app is running locally.
-
----
-
-## 📄 License
-
-This is a demo/portfolio project — free to use and adapt.
