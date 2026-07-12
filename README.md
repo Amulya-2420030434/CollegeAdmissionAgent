@@ -1,3 +1,5 @@
+Github URL: https://github.com/Amulya-2420030434/CollegeAdmissionAgent
+
 # 🎓 College Admission Agent
 
 An AI-powered College Admission Agent — a full-stack web app that helps
